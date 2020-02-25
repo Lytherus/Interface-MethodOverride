@@ -1,0 +1,11 @@
+Z:\c#\ShapeCalc\ShapeCalc\bin\Debug\netcoreapp2.1\ShapeCalc.deps.json
+Z:\c#\ShapeCalc\ShapeCalc\bin\Debug\netcoreapp2.1\ShapeCalc.runtimeconfig.json
+Z:\c#\ShapeCalc\ShapeCalc\bin\Debug\netcoreapp2.1\ShapeCalc.runtimeconfig.dev.json
+Z:\c#\ShapeCalc\ShapeCalc\bin\Debug\netcoreapp2.1\ShapeCalc.dll
+Z:\c#\ShapeCalc\ShapeCalc\bin\Debug\netcoreapp2.1\ShapeCalc.pdb
+Z:\c#\ShapeCalc\ShapeCalc\obj\Debug\netcoreapp2.1\ShapeCalc.csprojAssemblyReference.cache
+Z:\c#\ShapeCalc\ShapeCalc\obj\Debug\netcoreapp2.1\ShapeCalc.csproj.CoreCompileInputs.cache
+Z:\c#\ShapeCalc\ShapeCalc\obj\Debug\netcoreapp2.1\ShapeCalc.AssemblyInfoInputs.cache
+Z:\c#\ShapeCalc\ShapeCalc\obj\Debug\netcoreapp2.1\ShapeCalc.AssemblyInfo.cs
+Z:\c#\ShapeCalc\ShapeCalc\obj\Debug\netcoreapp2.1\ShapeCalc.dll
+Z:\c#\ShapeCalc\ShapeCalc\obj\Debug\netcoreapp2.1\ShapeCalc.pdb
